@@ -1,0 +1,4 @@
+#Mon Mar 25 14:28:00 IST 2019
+base.0=/home/zapbuild/Documents/ReactNativeProjects/NavProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
